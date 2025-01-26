@@ -14,9 +14,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging technology to solv
 
 ### 📫 Let's Connect!  
 - 📧 Email: [hassanhamidi612@gmail.com](mailto:hassanhamidi612@gmail.com)  
-
-### 📊 GitHub Stats  
-![Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+ 
 <!--
 **Hassanhamidi6/Hassanhamidi6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
