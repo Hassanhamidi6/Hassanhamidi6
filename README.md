@@ -12,8 +12,8 @@ I enjoy turning complex data into smart, practical systems.
 ---
 
 ### 📫 Connect With Me  
-- 📧 Email: [hassanhamidi612@gmail.com](mailto:hassanhamidi612@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/hassanhamidi](https://linkedin.com/in/hassanhamidi) *(optional if you have one)*  
+- 📧 Email: hassanhamidi612@gmail.com
+- 💼 LinkedIn: linkedin.com/in/muhammad-hassan6
 
 
 <!--
