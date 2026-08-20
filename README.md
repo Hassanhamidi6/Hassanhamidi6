@@ -1,24 +1,33 @@
-# 👋 Hi there, I'm **Hassan Hamidi**
+# Hassan Hamidi
 
-### 🧠 About Me  
-I’m passionate about using AI to build real-world, impactful solutions.With experience in Machine Learning, Deep Learning, Computer Vision, and NLP,
-I enjoy turning complex data into smart, practical systems.
+### AI/ML Engineer | Data Scientist
 
-- 🔭 Currently working on **AI-powered applications** and **Computer Vision projects**.  
-- 🌱 Constantly learning the latest in **Deep Learning**, **Generative AI**, and **Agentic AI**.  
-- 💡 Focused on building **innovative AI solutions** that bridge research and real-world impact.  
-- 🤝 Open to collaboration on **AI, NLP, and data-centric projects**.
+I’m an AI/ML engineer and data scientist focused on building practical AI solutions for real-world problems.
 
----
+My experience spans **Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI, and AI Agents**. I enjoy turning ideas and research into reliable, production-ready applications.
 
-### 📫 Connect With Me  
-- 📧 Email: [hassanhamidi612@gmail.com](mailto:hassanhamidi612@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/hassanhamidi](https://linkedin.com/in/muhammad-hassan6/)
-- Check out my freelance work on [Upwork](https://www.upwork.com/freelancers/~01b1bf597851682921).
+### Areas of Focus
+
+* Machine Learning & Deep Learning
+* Computer Vision & NLP
+* Generative AI & LLMs
+* RAG & AI Agents
+* AI-powered SaaS applications
+* Data Science & Intelligent Automation
+* 
+
+### Tech Stack
+
+**Languages:** Python, C++ , SQL
+**AI/ML:** PyTorch, TensorFlow, Scikit-learn, OpenCV, YOLO, InsightFace
+**AI & NLP:** LLMs, RAG, LangChain, FAISS, AI Agents
+**Backend & Data:** FastAPI, Flask, PostgreSQL, pgvector, MySQL
+**Tools:** Docker, Git, GitHub, MLflow, DVC, Azure DevOps
+
+### Connect
+
+**Email:** [hassanhamidi612@gmail.com](mailto:hassanhamidi612@gmail.com)
+**LinkedIn:** [linkedin.com/in/muhammad-hassan6](https://linkedin.com/in/muhammad-hassan6/)
+**Upwork:** [Freelance Profile](https://www.upwork.com/freelancers/~01b1bf597851682921)
 
 
-
-
-<!--
-**Hassanhamidi6/Hassanhamidi6** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
